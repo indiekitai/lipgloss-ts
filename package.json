@@ -1,5 +1,5 @@
 {
-  "name": "@indiekit/lipgloss",
+  "name": "@indiekitai/lipgloss",
   "version": "0.1.0",
   "description": "Terminal styling & layout for TypeScript - port of charmbracelet/lipgloss",
   "type": "module",
