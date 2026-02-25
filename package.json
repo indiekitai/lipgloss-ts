@@ -25,6 +25,13 @@
   },
   "keywords": ["terminal", "styling", "ansi", "lipgloss", "tui", "layout"],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/indiekitai/lipgloss"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "tsup": "^8.0.0",
     "typescript": "^5.3.0",
