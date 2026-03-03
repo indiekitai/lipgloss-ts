@@ -1,3 +1,5 @@
+[English](README.md) | [中文](README.zh-CN.md)
+
 # @indiekit/lipgloss
 
 [![npm version](https://img.shields.io/npm/v/@indiekit/lipgloss)](https://www.npmjs.com/package/@indiekit/lipgloss)
